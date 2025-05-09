@@ -7,12 +7,12 @@ It's a light and engaging way to explore astrology through interactive UI.
 The goal of this project was to create a playful web experience using core front-end skills.<br>
 It helps users discover their zodiac sign based on their birthday and learn a little more about what it means while practicing input handling and DOM updates with JavaScript.
 
-Built With
+Built With<br>
 HTML – to structure the page<br>
 CSS – for a styled, colorful user interface<br>
 JavaScript – for input handling, zodiac sign calculation, and dynamic content updates<br>
 
-Features
+Features<br>
 User inputs their birthdate<br>
 App calculates the user's zodiac sign<br>
 Displays a short horoscope or personality trait<br>
